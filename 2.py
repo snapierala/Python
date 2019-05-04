@@ -6,3 +6,5 @@ waga = input("Ile ważysz ? ")
 wzrost = input("Ile masz wzrotu ")
 print (imie, "Twój BMI wynosi:", int(waga) / (float(wzrost) ** 2))
 
+
+
