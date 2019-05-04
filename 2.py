@@ -8,4 +8,3 @@ BMI = waga / (wzrost ** 2)
 print (imie, "Twój BMI wynosi:", BMI)
 
 
-
