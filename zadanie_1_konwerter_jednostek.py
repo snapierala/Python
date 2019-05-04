@@ -7,3 +7,5 @@ cm_to_m = dlugosc/100
 cm_to_cal = dlugosc/0.394
 
 print ("Podany wymiar {:.2f} cm to {} metrów lub {:.2f} cali". format(dlugosc, cm_to_m, cm_to_cal))
+
+input()
