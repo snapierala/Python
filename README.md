@@ -1,1 +1,1 @@
-# Cwiczenia w Pythonie
+# Cwiczenia w Python
