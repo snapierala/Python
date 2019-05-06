@@ -32,8 +32,7 @@ print('******************************************')
 print (list(seriale.keys()))
 print (seriale.keys())
 
-
-
+input('\nPress enter to continue...')
 
 
 
